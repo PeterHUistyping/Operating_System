@@ -7,5 +7,5 @@ Github doesn't support the full folder of xv6-labs.
 Some hidden files are not included.
 ## Set up
 ```
-git submodule update --recursive
+git submodule update --init --recursive
 ```
