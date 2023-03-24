@@ -1,0 +1,4 @@
+[submodule "xv6-riscv"]
+	path = xv6-riscv
+	url = https://github.com/PeterHUistyping/xv6-riscv.git
+	branch = Labs-2022
