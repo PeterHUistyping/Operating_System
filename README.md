@@ -19,7 +19,7 @@ A re-implementation of Unix Version 6 (v6).  It is specially implemented for a m
 ## xv6 Project
 This repo contains all the xv6 code used in MIT 6.S081.
 
-[Project](/Doc/Project.md)
+[Project-Details](/Doc/Project.md)
 
 - *Operating_System, MIT 6.S081*  
   - xv6 (Unix Version 6)
